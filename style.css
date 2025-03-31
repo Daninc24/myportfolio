@@ -479,14 +479,20 @@ footer a:hover {
         flex-direction: column;
     }
     .nav-links {
-        flex-direction: column;
+        flex-direction: row;
     }
     .nav-links li {
-        margin: 5px;
-        font-size: 1.5rem;
+        margin: 3px;
+        font-size: 0.7rem;
+        padding: 5px;
+        
     }
+    .logo {
+        font-size: 1rem;
+    }
+    
     .logo.glitch {
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     .contact-grid {
         display: flex;
