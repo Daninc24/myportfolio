@@ -62,7 +62,7 @@ body {
     to { transform: rotate(360deg) }
 }
 
-/*  Cyberpunk Navigation  */
+/*  Navigation section */
 .navbar {
     background: rgba(0, 1, 0, 0.808);
     backdrop-filter: blur(10px);
@@ -179,6 +179,11 @@ ul.nav-links {
     perspective: 1000px;
     height: 400px;
 
+}
+#projects .section-title{
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
 }
 .card-grid {
     display: grid;
