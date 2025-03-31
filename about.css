@@ -30,3 +30,16 @@
     color: var(--neon-primary);
     margin-bottom: 2rem;
 }
+/* resposive design */
+@media (max-width: 768px) {
+    .about-container p {
+        font-size: 1.5rem;
+    }
+    .about-container h2 {
+        font-size: 2rem;
+    }
+    img {
+        width: 300px;
+        height: 300px;
+    }
+}
