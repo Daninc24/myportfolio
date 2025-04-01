@@ -120,7 +120,7 @@ ul.nav-links {
     color: var(--text-light);
 
 }
-.nav-links li:hover {
+.nav-links li:hover a{
     color: var(--neon-primary);
 }
 .nav-links li a {
@@ -345,6 +345,15 @@ ul.nav-links {
     font-size: 3rem;
     padding: 1rem 1.5rem;
 }
+.btn-download .btn {
+    font-size: 1.5rem;
+    padding: 1rem 1.5rem;    
+}
+.btn-download .btn:hover {
+    color: blueviolet;
+}
+
+
 
 
 
