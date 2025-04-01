@@ -345,11 +345,11 @@ ul.nav-links {
     font-size: 3rem;
     padding: 1rem 1.5rem;
 }
-.download-button .btn {
+#download-cv {
     font-size: 2rem;
     padding: 1rem 1.5rem;    
 }
-.download-button .btn:hover {
+#download-cv:hover {
     color: blueviolet;
 }
 
