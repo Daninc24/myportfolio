@@ -519,6 +519,10 @@ footer a:hover {
     .info-card {
         font-size: 1.5rem;
     }
+    .info-card img {
+        width: 20px;
+        height: 20px;
+    }
     .education-item h3 {
         font-size: 1.5rem;
     }
@@ -528,6 +532,7 @@ footer a:hover {
     .section-title {
         font-size: 2rem;
     }
+
     footer {
         font-size: 1.5rem;
     }
